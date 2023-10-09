@@ -1,2 +1,2 @@
-# react-useeffect-demo
+# react-hooks-demo
 Created with CodeSandbox
